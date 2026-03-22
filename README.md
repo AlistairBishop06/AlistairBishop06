@@ -1,6 +1,7 @@
 ## About Me
 
 Hi, i'm Alistair, a second year BSc Computer Science student at the University of Exeter. On this Github page you will find a selection of both personal and educational projects - either to solve tasks in my everyday life or for a personal challenge!
+Please have a look at my portfolio website [here!](alistairbishop06.github.io)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alistair.bishop.7796) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alistairbishop1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alistairbishop1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlistairBishop1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alistairbishop1) 
