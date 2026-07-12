@@ -1,0 +1,12 @@
+username: AlistairBishop06
+max_lines: 6
+readme_file: README.md
+commit_message: "Update recent GitHub activity"
+disabled_events:
+  - fork
+  - watch
+  - member
+  - public
+  - release
+  - create
+  - delete

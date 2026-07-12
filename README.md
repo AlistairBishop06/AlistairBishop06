@@ -1,29 +1,152 @@
-## About Me
+<div align="center">
 
-Hi, i'm Alistair, a second year BSc Computer Science student at the University of Exeter. On this Github page you will find a selection of both personal and educational projects - either to solve tasks in my everyday life or for a personal challenge!
-Please have a look at my portfolio website [here!](https://alistairbishop06.github.io/)
+# Hi, I'm Alistair Bishop 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alistair.bishop.7796) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alistairbishop1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alistairbishop1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlistairBishop1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alistairbishop1) 
+### Computer Science student building interactive software, developer tools and experimental games
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlistairBishop06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlistairBishop06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlistairBishop06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=BSc+Computer+Science+%40+University+of+Exeter;Full-stack+and+creative+software+development;Procedural+worlds%2C+automation+and+data+systems;Turning+unusual+ideas+into+working+projects" alt="Typing introduction" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alistairbishop06.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alistairbishop1)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alistairbishop1)
+[![Followers](https://img.shields.io/github/followers/AlistairBishop06?style=for-the-badge&logo=github&label=Followers)](https://github.com/AlistairBishop06?tab=followers)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlistairBishop06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=AlistairBishop06&style=flat-square&color=58a6ff&label=Profile+views" alt="Profile views" />
 
-### 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
-![](https://komarev.com/ghpvc/?username=AlistairBishop06)
-[![](https://visitcount.itsvg.in/api?id=AlistairBishop06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a **BSc Computer Science student at the University of Exeter** who enjoys creating practical tools and technically unusual interactive projects. My repositories cover browser-based 3D experiences, automated media tooling, relational data systems, simulations and games.
+
+- 🔭 **Recently working on:** a procedural world builder, automated short-form video generation and environmental database tooling
+- 🧠 **Interested in:** procedural generation, full-stack development, databases, automation, graphics and game systems
+- 🛠️ **Approach:** learning by building complete, usable projects rather than isolated demonstrations
+- 🌐 **Portfolio:** [alistairbishop06.github.io](https://alistairbishop06.github.io/)
+
+---
+
+## Current Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [Procedural World Builder](https://github.com/AlistairBishop06/World-Generator-and-Explorer)
+
+An interactive Three.js terrain editor and first-person explorer with seed-based generation, biome simulation, sculpting and painting tools, chunk loading, procedural objects and adjustable world parameters.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/AlistairBishop06/World-Generator-and-Explorer)
+[![Live Demo](https://img.shields.io/badge/Open_Live_Demo-000000?style=flat-square&logo=vercel)](https://explorableworldgenerator.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [YouTube Shorts Video Generator](https://github.com/AlistairBishop06/YoutubeShort-Ranked-Video-Maker)
+
+A Next.js application that finds candidate clips, builds ranked or narrated story videos, generates hooks and captions, renders vertical video with FFmpeg, and supports scheduled YouTube uploads through GitHub Actions.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/AlistairBishop06/YoutubeShort-Ranked-Video-Maker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗃️ [Environmental Data Management System](https://github.com/AlistairBishop06/Environmental-Data-Management-System)
+
+A Python and SQLite application for importing messy environmental CSV data into a normalised relational schema, with cleaning, duplicate detection, validation, reporting, safe custom SQL and an interactive Tkinter interface.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/AlistairBishop06/Environmental-Data-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Interactive Portfolio Collection
+
+A set of unconventional portfolio experiences, including a navigable repository galaxy, a procedural terrain portfolio and a retro CRT workstation interface.
+
+[![Terrain](https://img.shields.io/badge/Terrain-Portfolio-2ea44f?style=flat-square)](https://github.com/AlistairBishop06/portfolio-terrain)
+[![Orbit](https://img.shields.io/badge/Orbit-Portfolio-8957e5?style=flat-square)](https://github.com/AlistairBishop06/portfolio-orbit)
+[![CRT](https://img.shields.io/badge/CRT-Portfolio-d29922?style=flat-square)](https://github.com/AlistairBishop06/portfolio-crt)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>More projects</strong></summary>
+<br>
+
+- ♟️ [Chaos Chess](https://github.com/AlistairBishop06/Chaos-Chess) — an experimental variation on chess
+- 🌌 [Universe Explorer](https://github.com/AlistairBishop06/Universe-Explorer-Web-App) — seamless-scale space and planetary exploration experiments
+- ⛽ [Local Cheapest Fuel Map](https://github.com/AlistairBishop06/Local-cheapest-fuel-map) — mapping local fuel prices
+- 🚗 [Optimised Parking Simulation](https://github.com/AlistairBishop06/Optimised-Parking-Simulation) — parking and allocation simulation
+- 🧵 [Python Cloth Simulation](https://github.com/AlistairBishop06/Python-Cloth-Sim) — a compact cloth physics experiment
+- 🃏 [Java Card Game](https://github.com/AlistairBishop06/JavaCardGame-ECM2414) — a university software-development project
+
+</details>
+
+---
+
+## Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,java,kotlin,js,ts,html,css,ruby,dotnet,django,nextjs,threejs,mysql,sqlite,git,github,githubactions,unity,azure,vercel,vscode,visualstudio&perline=12" alt="Languages and tools" />
+
+</div>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlistairBishop06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlistairBishop06&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlistairBishop06&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alistair.bishop.7796)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alistairbishop1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alistairbishop1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlistairBishop1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alistairbishop1)
+
+### Thanks for visiting — feel free to explore my repositories or get in touch.
+
+</div>
