@@ -116,24 +116,47 @@ A set of unconventional portfolio experiences, including a navigable repository 
 
 ---
 
-## Contribution Snake
+## Contribution Journey
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="Animated contribution snake"
+    src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/output/github-contribution-grid-snake.svg"
+  >
 </picture>
 
 </div>
 
 ---
 
-## Recent GitHub Activity
+## Latest GitHub Activity
+
+<table>
+<tr>
+<td valign="top">
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+[View all activity →](https://github.com/AlistairBishop06?tab=overview&from=2026-01-01&to=2026-12-31)
+
+</div>
 
 ---
 
