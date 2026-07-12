@@ -1,4 +1,3 @@
-```yaml
 name: Update Recent GitHub Activity
 
 on:
@@ -24,4 +23,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: .github/recent-activity.config.yml
-```

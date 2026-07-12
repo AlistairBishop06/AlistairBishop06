@@ -1,4 +1,3 @@
-```yaml
 username: AlistairBishop06
 max_lines: 6
 readme_file: README.md
@@ -12,4 +11,3 @@ disabled_events:
   - release
   - create
   - delete
-```
