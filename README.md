@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi, I'm Alistair Bishop 👋
@@ -258,4 +257,3 @@ mindmap
 Feel free to explore my repositories, try the live projects or get in touch.
 
 </div>
-````
