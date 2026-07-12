@@ -1,4 +1,5 @@
-name: Update recent activity
+```yaml
+name: Update Recent GitHub Activity
 
 on:
   schedule:
@@ -14,9 +15,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Update README activity
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update recent GitHub activity
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: .github/recent-activity.config.yml
+```

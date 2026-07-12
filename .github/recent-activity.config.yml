@@ -1,7 +1,9 @@
+```yaml
 username: AlistairBishop06
 max_lines: 6
 readme_file: README.md
 commit_message: "Update recent GitHub activity"
+
 disabled_events:
   - fork
   - watch
@@ -10,3 +12,4 @@ disabled_events:
   - release
   - create
   - delete
+```
