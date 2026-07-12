@@ -23,6 +23,7 @@ Please have a look at my portfolio website [here!](https://alistairbishop06.gith
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+![](https://komarev.com/ghpvc/?username=AlistairBishop06)
 [![](https://visitcount.itsvg.in/api?id=AlistairBishop06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
