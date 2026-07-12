@@ -167,33 +167,49 @@ mindmap
 <div align="center">
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=AlistairBishop06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlistairBishop06&theme=github_dark"
   alt="GitHub statistics"
 />
 
 <img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlistairBishop06&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Most used languages"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlistairBishop06&theme=github_dark"
+  alt="Repositories by language"
 />
 
 <br>
 
 <img
-  width="92%"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlistairBishop06&theme=github_dark"
+  alt="Most committed languages"
+/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBishop06&theme=github_dark&utcOffset=1"
+  alt="Most productive development time"
+/>
+
+<br>
+
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlistairBishop06&theme=github_dark"
+  alt="GitHub contribution details"
+/>
+
+<br>
+
+<img
+  width="96%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true"
   alt="GitHub contribution activity graph"
 />
 
-<br>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=AlistairBishop06&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
-  alt="GitHub trophies"
-/>
-
 </div>
+
 
 ---
 
