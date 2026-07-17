@@ -235,11 +235,11 @@ mindmap
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nieko27/Frame-Workshop](https://github.com/Nieko27/Frame-Workshop)<br>
-2. ⭐ Starred [HLANoVR/HLA-NoVR](https://github.com/HLANoVR/HLA-NoVR)<br>
-3. ⭐ Starred [AlistairBishop06/Chaos-Chess](https://github.com/AlistairBishop06/Chaos-Chess)<br>
-4. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/Python-Cloth-Sim](https://github.com/AlistairBishop06/Python-Cloth-Sim)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/World-Generator-and-Explorer](https://github.com/AlistairBishop06/World-Generator-and-Explorer)<br>
+1. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/AlistairBishop06](https://github.com/AlistairBishop06/AlistairBishop06)<br>
+2. ⭐ Starred [Nieko27/Frame-Workshop](https://github.com/Nieko27/Frame-Workshop)<br>
+3. ⭐ Starred [HLANoVR/HLA-NoVR](https://github.com/HLANoVR/HLA-NoVR)<br>
+4. ⭐ Starred [AlistairBishop06/Chaos-Chess](https://github.com/AlistairBishop06/Chaos-Chess)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/Python-Cloth-Sim](https://github.com/AlistairBishop06/Python-Cloth-Sim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
