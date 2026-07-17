@@ -166,47 +166,38 @@ mindmap
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlistairBishop06&theme=github_dark"
-  alt="GitHub statistics"
-/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlistairBishop06&theme=github_dark" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlistairBishop06&theme=github_dark" />
+</td>
+</tr>
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlistairBishop06&theme=github_dark"
-  alt="Repositories by language"
-/>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlistairBishop06&theme=github_dark" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBishop06&theme=github_dark&utcOffset=1" />
+</td>
+</tr>
 
-<br>
+<tr>
+<td colspan="2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlistairBishop06&theme=github_dark" width="100%" />
+</td>
+</tr>
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlistairBishop06&theme=github_dark"
-  alt="Most committed languages"
-/>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true" width="100%" />
+</td>
+</tr>
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBishop06&theme=github_dark&utcOffset=1"
-  alt="Most productive development time"
-/>
-
-<br>
-
-<img
-  width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlistairBishop06&theme=github_dark"
-  alt="GitHub contribution details"
-/>
-
-<br>
-
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub contribution activity graph"
-/>
+</table>
 
 </div>
 
