@@ -169,35 +169,50 @@ mindmap
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlistairBishop06&theme=github_dark" />
+<img
+  src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/main/profile-summary-card-output/github_dark/3-stats.svg"
+  width="100%"
+  alt="GitHub profile statistics"
+/>
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlistairBishop06&theme=github_dark" />
+<img
+  src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  width="100%"
+  alt="Repositories by language"
+/>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlistairBishop06&theme=github_dark" />
+<img
+  src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  width="100%"
+  alt="Most used commit languages"
+/>
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlistairBishop06&theme=github_dark&utcOffset=1" />
+<img
+  src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+  width="100%"
+  alt="Most productive development times"
+/>
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlistairBishop06&theme=github_dark" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/AlistairBishop06/AlistairBishop06/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+  width="100%"
+  alt="GitHub contribution details"
+/>
 </td>
 </tr>
-
-<tr>
-<td colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true" width="100%" />
-</td>
-</tr>
-
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlistairBishop06&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
