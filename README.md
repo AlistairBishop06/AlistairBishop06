@@ -250,11 +250,11 @@ mindmap
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/YoutubeShort-Ranked-Video-Maker](https://github.com/AlistairBishop06/YoutubeShort-Ranked-Video-Maker)<br>
+1. ⭐ Starred [zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships)<br>
 2. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/AlistairBishop06](https://github.com/AlistairBishop06/AlistairBishop06)<br>
-3. ⭐ Starred [Nieko27/Frame-Workshop](https://github.com/Nieko27/Frame-Workshop)<br>
-4. ⭐ Starred [HLANoVR/HLA-NoVR](https://github.com/HLANoVR/HLA-NoVR)<br>
-5. ⭐ Starred [AlistairBishop06/Chaos-Chess](https://github.com/AlistairBishop06/Chaos-Chess)<br>
+3. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/AlistairBishop06](https://github.com/AlistairBishop06/AlistairBishop06)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/YoutubeShort-Ranked-Video-Maker](https://github.com/AlistairBishop06/YoutubeShort-Ranked-Video-Maker)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/AlistairBishop06](https://github.com/AlistairBishop06/AlistairBishop06)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
