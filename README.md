@@ -5,7 +5,7 @@
 ### Computer Science student building interactive software, developer tools and experimental projects
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=BSc+Computer+Science+%40+University+of+Exeter;Full-stack+and+creative+software+development;Procedural+worlds%2C+automation+and+data+systems;Turning+unusual+ideas+into+working+projects"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=BSc+Computer+Science+%40+University+of+Exeter;Full-stack+and+creative+software+development;Procedural+worlds%2C+automation+and+data+systems;3D+Rendering+Pipelines"
   alt="Typing introduction"
 />
 
