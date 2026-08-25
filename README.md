@@ -250,11 +250,11 @@ mindmap
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
+1. ⭐ Starred [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft)<br>
 2. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
-5. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
