@@ -253,8 +253,8 @@ mindmap
 1. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 2. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
-4. ⭐ Starred [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/Chaos-Chess](https://github.com/AlistairBishop06/Chaos-Chess)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
+5. ⭐ Starred [Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
