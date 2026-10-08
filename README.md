@@ -252,7 +252,6 @@ mindmap
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ThioJoe/Full-Screen-DLSS5-Wrapper](https://github.com/ThioJoe/Full-Screen-DLSS5-Wrapper)<br>
 2. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
