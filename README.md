@@ -252,7 +252,6 @@ mindmap
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [chase-sibley/ATCTW-CW1-Group-26](https://github.com/chase-sibley/ATCTW-CW1-Group-26)<br>
 2. ⭐ Starred [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled)<br>
-3. ⭐ Starred [ThioJoe/Full-Screen-DLSS5-Wrapper](https://github.com/ThioJoe/Full-Screen-DLSS5-Wrapper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
