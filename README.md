@@ -254,7 +254,7 @@ mindmap
 2. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
-5. ⬆️ Pushed undefined commit(s) to [chase-sibley/ATCTW-CW1-Group-26](https://github.com/chase-sibley/ATCTW-CW1-Group-26)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlistairBishop06/TV-Show-Archive](https://github.com/AlistairBishop06/TV-Show-Archive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
