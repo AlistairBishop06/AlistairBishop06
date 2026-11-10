@@ -1,11 +1,6 @@
-<div align="center">
-
-# Hi, I'm Alistair Bishop 👋
-
-### Computer Science student building interactive software, developer tools and experimental projects
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=BSc+Computer+Science+%40+University+of+Exeter;Full-stack+and+creative+software+development;Procedural+worlds%2C+automation+and+data+systems;3D+Rendering+Pipelines"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=BSc+Computer+Science;Full-stack+and+creative+software+development;Procedural+worlds%2C+automation+and+data+systems;3D+Rendering+Pipelines"
   alt="Typing introduction"
 />
 
@@ -29,7 +24,7 @@
 
 ## About Me
 
-I'm a **BSc Computer Science student at the University of Exeter** who enjoys creating practical tools, interactive experiences and technically unusual software projects.
+I'm a Computer Science student who enjoys creating practical tools, software modification, and interactive experiences.
 
 My repositories cover browser-based 3D applications, automated media tooling, relational data systems, simulations, developer utilities and experimental games.
 
